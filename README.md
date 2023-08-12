@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi, I'm Vishal Pattar</h1>
 
-<h3 align="left">Connect with me on:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
-    <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+    <a href="#" target="_blank"><img align="center" src="![image](https://github.com/Vishal-Pattar/VishalPattar/assets/104265753/6d875784-3dd8-43ef-944e-c4e70a529de6)
+" alt="" height="30" width="40" /></a>
 </p>
