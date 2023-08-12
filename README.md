@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Vishal Pattar</h1>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
     <a href="#" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
