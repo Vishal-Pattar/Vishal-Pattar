@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vishalpattar.work@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rP9AfHdy6jw-4aTWJ95iIk505z7Un4Li/view](https://drive.google.com/file/d/1rP9AfHdy6jw-4aTWJ95iIk505z7Un4Li/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rP9AfHdy6jw-4aTWJ95iIk505z7Un4Li/view)
 
 - ⚡ Fun fact **I am non-conventional, frugal innovator (aka Jugaadu)**
 
