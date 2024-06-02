@@ -17,9 +17,11 @@
 - ⚡ Fun fact **I am non-conventional, frugal innovator (aka Jugaadu)**
 
 ## 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishal-pattar-1403801a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-pattar-1403801a1/" height="30" width="40" /></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-pattar-1403801a1/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vishalpattar03)
+[![Blogspot](https://img.shields.io/badge/Blogspot-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://vishal-pattar.blogspot.com/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/vishal0303)
 
 ## 🛠️ Technologies & Tools
 - ### Programming Languages
