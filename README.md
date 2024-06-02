@@ -76,10 +76,10 @@
 
 
 ## 📈 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-pattar&show_icons=true&locale=en&layout=compact" alt="vishal-pattar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-pattar&show_icons=true&locale=en&layout=compact&theme=dark" alt="vishal-pattar" /></p>
 <br><br><br><br><br><br><br><br>
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-pattar&show_icons=true&locale=en" alt="vishal-pattar" /></p>-->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-pattar&" alt="vishal-pattar" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-pattar&show_icons=true&locale=en&theme=dark" alt="vishal-pattar" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal-pattar&theme=dark" alt="vishal-pattar" /></p>
 
 
 
