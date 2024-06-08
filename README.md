@@ -174,8 +174,8 @@
 </table>
 
 ## 📈 GitHub Stats
-![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=vishal-pattar&show_icons=true&locale=en&layout=compact&theme=dark)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=vishal-pattar&show_icons=true&locale=en&layout=compact&theme=light)
 <br>
 <!-- ![readme stats](https://github-readme-stats.vercel.app/api?username=vishal-pattar&show_icons=true&locale=en&theme=dark)
 <br> -->
-![readme streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal-pattar&theme=dark)
+![readme streak](https://github-readme-streak-stats.herokuapp.com/?user=vishal-pattar&theme=light)
