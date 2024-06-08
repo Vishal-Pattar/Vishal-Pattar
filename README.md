@@ -106,11 +106,11 @@
 </table>
 <table border="1">
   <tr>
-    <th colspan='6'>Data Science By Altair Inc.</th>
+    <th colspan='6'>By Altair Inc.</th>
   </tr>
   <tr>
-    <th colspan='3'>Professional</th>
-    <th colspan='3'>Master</th>
+    <th colspan='3'>Data Science Professional</th>
+    <th colspan='3'>Data Science Master</th>
   </tr>
   <tr>
     <td>
