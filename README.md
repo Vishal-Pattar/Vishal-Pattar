@@ -79,7 +79,7 @@
 ## 🔰 Badges
 <table border="1">
   <tr>
-    <th colspan='4'>Amazon Web Service</th>
+    <th colspan='4'>By AWS Academy</th>
   </tr>
   <tr>
     <td>
