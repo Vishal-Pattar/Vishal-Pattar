@@ -76,38 +76,75 @@
     ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
     ![Selenium](https://img.shields.io/badge/-Selenium-333?style=flat&logo=selenium)
 
-## ⭐ Badges
-<a href='https://www.credly.com/badges/1edd848e-150d-4126-a5c1-24c62b40e5e6/public_url'>
-  <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/bee1b86f-b230-49e9-8455-0b53469c62a8' alt='AWS Cloud Foundations' width='100px'>
-</a>
-<a href='https://www.credly.com/badges/3194942b-cdea-4e93-9e2d-3940e1d04e20/public_url'>
-  <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/fdd2d770-4e7e-486f-83a8-46847767217b' alt='AWS Cloud Architecting' width='100px'>
-</a>
-<a href='https://www.credly.com/badges/50505f79-8440-45b0-8753-68d47a371e26/public_url'>
-  <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/64149191-fa78-42d1-a117-1b961788d52b' alt='AWS Machine Learning Foundations' width='100px'>
-</a>
-<a href='https://www.credly.com/badges/fe831383-dda8-4130-8f2a-3e0ac78fabee/public_url'>
-  <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/2e028ebb-b603-476c-8496-c2dbb280a84d' alt='AWS Data Engineering' width='100px'>
-</a>
-<a href='https://openbadgepassport.com/app/badge/info/746137'>
-  <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/5287c464-9a86-40b5-a502-9fc13c59bef1' alt='Applications & Use Cases Professional' width='100px'>
-</a>
-<a href='https://openbadgepassport.com/app/badge/info/746204'>
-  <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/2b71fd2c-4c54-4f31-9f7d-355ac5765236' alt='Machine Learning Professional' width='100px'>
-</a>
-<a href='https://openbadgepassport.com/app/badge/info/746203'>
-  <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/af0980d0-28c7-4668-819f-3ae9ddcfb38b' alt='Data Engineering Professional' width='100px'>
-</a>
-<a href='https://openbadgepassport.com/app/badge/info/748429'>
-  <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/9ecb7f0f-158c-4bfc-a61b-5da81e629af3' alt='Applications & Use Cases Master' width='100px'>
-</a>
-<a href='https://openbadgepassport.com/app/badge/info/748408'>
-  <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/2d996126-6ebf-491c-ac9c-5ad9924f5f17' alt='Machine Learning Master' width='100px'>
-</a>
-<a href='https://openbadgepassport.com/app/badge/info/748402'>
-  <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/e6c7e6d4-d361-417d-9633-66ea2c611841' alt='Data Engineering Master' width='100px'>
-</a>
-
+## 🔰 Badges
+<table border="1">
+  <tr>
+    <th colspan='4'>Amazon Web Service</th>
+  </tr>
+  <tr>
+    <td>
+      <a href='https://www.credly.com/badges/1edd848e-150d-4126-a5c1-24c62b40e5e6/public_url'>
+        <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/bee1b86f-b230-49e9-8455-0b53469c62a8' alt='AWS Cloud Foundations' width='100px'>
+      </a>
+    </td>
+    <td>
+      <a href='https://www.credly.com/badges/3194942b-cdea-4e93-9e2d-3940e1d04e20/public_url'>
+        <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/fdd2d770-4e7e-486f-83a8-46847767217b' alt='AWS Cloud Architecting' width='100px'>
+      </a>
+    </td>
+    <td>
+      <a href='https://www.credly.com/badges/50505f79-8440-45b0-8753-68d47a371e26/public_url'>
+        <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/64149191-fa78-42d1-a117-1b961788d52b' alt='AWS Machine Learning Foundations' width='100px'>
+      </a>
+    </td>
+    <td>
+      <a href='https://www.credly.com/badges/fe831383-dda8-4130-8f2a-3e0ac78fabee/public_url'>
+        <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/2e028ebb-b603-476c-8496-c2dbb280a84d' alt='AWS Data Engineering' width='100px'>
+      </a>
+    </td>
+  </tr>
+</table>
+<table border="1">
+  <tr>
+    <th colspan='6'>Data Science By Altair Inc.</th>
+  </tr>
+  <tr>
+    <th colspan='3'>Professional</th>
+    <th colspan='3'>Master</th>
+  </tr>
+  <tr>
+    <td>
+      <a href='https://openbadgepassport.com/app/badge/info/746137'>
+        <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/5287c464-9a86-40b5-a502-9fc13c59bef1' alt='Applications & Use Cases Professional' width='100px'>
+      </a>
+    </td>
+    <td>
+      <a href='https://openbadgepassport.com/app/badge/info/746204'>
+        <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/2b71fd2c-4c54-4f31-9f7d-355ac5765236' alt='Machine Learning Professional' width='100px'>
+      </a>
+    </td>
+    <td>
+      <a href='https://openbadgepassport.com/app/badge/info/746203'>
+        <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/af0980d0-28c7-4668-819f-3ae9ddcfb38b' alt='Data Engineering Professional' width='100px'>
+      </a>
+    </td>
+    <td>
+      <a href='https://openbadgepassport.com/app/badge/info/748429'>
+        <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/9ecb7f0f-158c-4bfc-a61b-5da81e629af3' alt='Applications & Use Cases Master' width='100px'>
+      </a>
+    </td>
+    <td>
+      <a href='https://openbadgepassport.com/app/badge/info/748408'>
+        <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/2d996126-6ebf-491c-ac9c-5ad9924f5f17' alt='Machine Learning Master' width='100px'>
+      </a>
+    </td>
+    <td>
+      <a href='https://openbadgepassport.com/app/badge/info/748402'>
+        <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/e6c7e6d4-d361-417d-9633-66ea2c611841' alt='Data Engineering Master' width='100px'>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📈 GitHub Stats
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=vishal-pattar&show_icons=true&locale=en&layout=compact&theme=dark)
