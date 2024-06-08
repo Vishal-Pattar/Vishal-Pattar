@@ -57,7 +57,7 @@
     ![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask)
 
 - ### Cloud Services
-    ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws)
+    ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonwebservices)
     ![Azure](https://img.shields.io/badge/-Azure-333?style=flat&logo=microsoftazure)
     ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333?style=flat&logo=googlecloud)
     ![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
