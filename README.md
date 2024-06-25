@@ -137,11 +137,11 @@
 </table>
 <table border="1">
   <tr>
-    <th colspan='6'>By Altair Inc.</th>
+    <th colspan='7'>By Altair Inc.</th>
   </tr>
   <tr>
     <th colspan='3'>Data Science Professional</th>
-    <th colspan='3'>Data Science Master</th>
+    <th colspan='4'>Data Science Master</th>
   </tr>
   <tr>
     <th>
@@ -172,6 +172,11 @@
     <th>
       <a href='https://openbadgepassport.com/app/badge/info/748402'>
         <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/e6c7e6d4-d361-417d-9633-66ea2c611841' alt='Data Engineering Master' width='100px'>
+      </a>
+    </th>
+    <th>
+      <a href='https://openbadgepassport.com/app/badge/info/759765'>
+        <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/3fb44bfe-96fa-4cb2-b235-a33aa8e7268f' alt='Platform Administration Master' width='100px'>
       </a>
     </th>
   </tr>
