@@ -135,52 +135,6 @@
     </th>
   </tr>
 </table>
-<table border="1">
-  <tr>
-    <th colspan='7'>By Altair Inc.</th>
-  </tr>
-  <tr>
-    <th colspan='3'>Data Science Professional</th>
-    <th colspan='4'>Data Science Master</th>
-  </tr>
-  <tr>
-    <th>
-      <a href='https://openbadgepassport.com/app/badge/info/746137'>
-        <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/5287c464-9a86-40b5-a502-9fc13c59bef1' alt='Applications & Use Cases Professional' width='100px'>
-      </a>
-    </th>
-    <th>
-      <a href='https://openbadgepassport.com/app/badge/info/746204'>
-        <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/2b71fd2c-4c54-4f31-9f7d-355ac5765236' alt='Machine Learning Professional' width='100px'>
-      </a>
-    </th>
-    <th>
-      <a href='https://openbadgepassport.com/app/badge/info/746203'>
-        <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/af0980d0-28c7-4668-819f-3ae9ddcfb38b' alt='Data Engineering Professional' width='100px'>
-      </a>
-    </th>
-    <th>
-      <a href='https://openbadgepassport.com/app/badge/info/748429'>
-        <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/9ecb7f0f-158c-4bfc-a61b-5da81e629af3' alt='Applications & Use Cases Master' width='100px'>
-      </a>
-    </th>
-    <th>
-      <a href='https://openbadgepassport.com/app/badge/info/748408'>
-        <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/2d996126-6ebf-491c-ac9c-5ad9924f5f17' alt='Machine Learning Master' width='100px'>
-      </a>
-    </th>
-    <th>
-      <a href='https://openbadgepassport.com/app/badge/info/748402'>
-        <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/e6c7e6d4-d361-417d-9633-66ea2c611841' alt='Data Engineering Master' width='100px'>
-      </a>
-    </th>
-    <th>
-      <a href='https://openbadgepassport.com/app/badge/info/759765'>
-        <img src='https://github.com/Vishal-Pattar/Vishal-Pattar/assets/104265753/3fb44bfe-96fa-4cb2-b235-a33aa8e7268f' alt='Platform Administration Master' width='100px'>
-      </a>
-    </th>
-  </tr>
-</table>
 
 ## 📈 GitHub Stats
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=vishal-pattar&show_icons=true&locale=en&layout=compact&theme=light)
