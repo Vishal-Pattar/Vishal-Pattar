@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Pattar</h1>
-<h3 align="center">👨‍💻 Machine Learning Developer | FullStack Web Developer 💻</h3>
+<h3 align="center">👨‍💻 Machine Learning Developer | MERN Stack Developer 💻</h3>
 
 ## 
 <p align="left"> 
@@ -8,11 +8,11 @@
 </p>
 
 ## 🔍 About Me
-- 🔭 I’m currently working on `Emotional Intelligence`
+- 🔭 I’m currently working on `Mental Health support system`
 
-- 🌱 I’m currently learning `Tensorflow`
+- 🌱 I’m currently learning `LLM`
 
-- 💬 Ask me about `Python`, `Machine Learning`, `Cloud Computing`
+- 💬 Ask me about `Python`, `Machine Learning`
 
 - 📫 How to reach me `vishalpattar.work@gmail.com`
 
