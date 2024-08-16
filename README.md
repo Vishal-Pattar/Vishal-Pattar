@@ -32,9 +32,7 @@
   <tr>
     <td>Programming Languages</td>
     <td>
-      <img src="https://img.shields.io/badge/-C-333?style=flat&logo=c" alt="C">
       <img src="https://img.shields.io/badge/-C++-333?style=flat&logo=cpp" alt="C++">
-      <img src="https://img.shields.io/badge/-Java-333?style=flat&logo=java" alt="Java">
       <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" alt="Python">
       <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript" alt="JavaScript">
       <img src="https://img.shields.io/badge/-PHP-333?style=flat&logo=php" alt="PHP">
@@ -82,8 +80,6 @@
       <img src="https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonwebservices" alt="AWS">
       <img src="https://img.shields.io/badge/-Azure-333?style=flat&logo=microsoftazure" alt="Azure">
       <img src="https://img.shields.io/badge/-Google%20Cloud-333?style=flat&logo=googlecloud" alt="Google Cloud">
-      <img src="https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase" alt="Firebase">
-      <img src="https://img.shields.io/badge/-Heroku-333?style=flat&logo=heroku" alt="Heroku">
     </td>
   </tr>
   <tr>
