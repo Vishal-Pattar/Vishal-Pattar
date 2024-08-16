@@ -10,9 +10,9 @@
 ## 🔍 About Me
 - 🔭 I’m currently working on `Mental Health support system`
 
-- 🌱 I’m currently learning `LLM`
+- 🌱 I’m currently learning `Langchain`
 
-- 💬 Ask me about `Python`, `Machine Learning`
+- 💬 Ask me about `Python`, `Machine Learning`, `Computer Vision`
 
 - 📫 How to reach me `vishalpattar.work@gmail.com`
 
