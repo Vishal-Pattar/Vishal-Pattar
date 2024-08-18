@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning `Langchain`
 
-- 💬 Ask me about `Python`, `Machine Learning`, `Computer Vision`
+- 💬 Ask me about `Python`, `Machine Learning`, `MERN Stack`
 
 - 📫 How to reach me `vishalpattar.work@gmail.com`
 
