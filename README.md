@@ -4,7 +4,7 @@
 ## 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=vishal-pattar&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-pattar" /> 
-  <img src="https://img.shields.io/badge/Total_Repos-86-5865F2" alt="Repository" />
+  <img src="https://img.shields.io/badge/Total_Repos-87-5865F2" alt="Repository" />
 </p>
 
 ## 🔍 About Me
